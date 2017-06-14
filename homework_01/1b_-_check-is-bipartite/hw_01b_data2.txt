@@ -1,0 +1,6 @@
+Honza, Pepa, Anna, Jarek, Tomas, Jirka
+Honza - Pepa
+Pepa - Anna
+Anna - Jarek
+Jarek - Honza
+Anna - Jirka

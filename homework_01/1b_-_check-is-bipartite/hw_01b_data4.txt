@@ -1,0 +1,5 @@
+Honza, Anna, Pepa, Milan
+Honza - Anna
+Anna - Pepa
+Pepa - Honza
+Milan - Honza
